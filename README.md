@@ -1,5 +1,5 @@
 <h1 align="center">IGNITE SHOP 🛒</h1>
-<h3 align="center">ROCKETSEAT IGNITE REACTJS: PROJECT (AND CHALLENGE) 4 FILES</h3>
+<h3 align="center">ROCKETSEAT IGNITE REACTJS: PROJECT 4 FILES</h3>
 
 <br/>
 
